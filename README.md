@@ -285,8 +285,9 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 **Salvatore Noschese**
 
-- Website: [https://salvatorenoschese.it](https://salvatorenoschese.it)
-- Donate: [PayPal.me/SalvatoreN](https://PayPal.me/SalvatoreN)
+- Website:  [https://salvatorenoschese.it](salvatorenoschese.it)
+- DemoLink: [https://cms.salvatorenoschese.it](cms.salvatorenoschese.it)
+- Donate:   [PayPal.me/SalvatoreN](https://PayPal.me/SalvatoreN)
 
 ## 🙏 Acknowledgments
 
