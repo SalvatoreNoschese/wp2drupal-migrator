@@ -278,8 +278,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
       <div>Cpanel Dry Run</div>
     </td>
       <td style="width:25%;">
-      <a href="https://github.com/user-attachments/assets/3afa16eb-bd9f-4731-b51a-def592a96fd6" target="_blank">
-         <img src="https://github.com/user-attachments/assets/3afa16eb-bd9f-4731-b51a-def592a96fd6" alt="Real Import" width="150" height="150" style="object-fit:cover; border-radius:4px;"/>
+      <a href="https://github.com/user-attachments/assets/ec0ffab5-442d-471b-b8d0-54e9ee13c195" target="_blank">
+         <img alt="Real Import" src="https://github.com/user-attachments/assets/ec0ffab5-442d-471b-b8d0-54e9ee13c195" width="150" height="150" style="object-fit:cover; border-radius:4px;"/>
       </a>
       <div>Cpanel Real Import</div>
     </td>
