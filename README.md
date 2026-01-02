@@ -272,8 +272,8 @@ MIT License - see [LICENSE](LICENSE) file for details.
       <div>If there is any issue</div>
     </td>
     <td style="width:25%;">
-      <a href="https://github.com/user-attachments/assets/b929f266-6c87-439b-9c97-a508f4a93110" target="_blank">
-        <img src="https://github.com/user-attachments/assets/b929f266-6c87-439b-9c97-a508f4a93110" alt="Cpanel Dry Run" width="150" height="150" style="object-fit:cover; border-radius:4px;"/>
+      <a href="https://github.com/user-attachments/assets/6d2dfdf6-6c53-4812-a680-ac4b3edb09e8" target="_blank">
+        <img src="https://github.com/user-attachments/assets/6d2dfdf6-6c53-4812-a680-ac4b3edb09e8" alt="Cpanel Dry Run" width="150" height="150" style="object-fit:cover; border-radius:4px;"/>
       </a>
       <div>Cpanel Dry Run</div>
     </td>
